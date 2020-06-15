@@ -1,2 +1,2 @@
 # Binomial-Package
-   pip install toulik_probability
+   - pip install toulik_probability
